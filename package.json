@@ -18,10 +18,10 @@
     "sync:config": "node scripts/sync-config.mjs"
   },
   "devDependencies": {
-    "@modelcontextprotocol/sdk": "^1.16.0",
+    "@modelcontextprotocol/sdk": "^1.31.0",
     "conventional-changelog-angular": "^6.0.0",
     "conventional-changelog-cli": "^4.1.0",
-    "js-yaml": "^4.1.1",
+    "js-yaml": "^4.3.2",
     "standard-version": "^9.5.0"
   },
   "changelog": {
